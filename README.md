@@ -1,4 +1,4 @@
-This fork allows the player to attack using the mace, while flying with they elytra, without having to switch to your chestplate, and back.
+This fork allows the player to use the smash attack from the mace, while flying with the elytra, without having to switch to your chestplate and back.
 
 How to use:
 1. Use an elytra and hold a mace
