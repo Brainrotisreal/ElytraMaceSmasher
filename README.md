@@ -1,14 +1,19 @@
-The mod let player make smash attack while surfing. 
+# ElytraMace
+This fork allows the player to use the mace's smash attack while flying with they elytra.
 
-Modrinth: https://modrinth.com/mod/elytramace
+## Disclaimer
+> Before continuing, please understand that this mod **MAY** get you banned from some Minecraft servers, *ESPECIALLY* pvp servers due to unfair advantage (though its very unlikely) But still, ***USE AT YOUR OWN RISK!***
 
-How to use:
-1. Wearing elytra and holding Mace in mainhand
-2. player in flying with enough fall distances (> 1.5 blocks)
-3. manually attack an entity
-
-
-Result -> The mod manages the attack to become a valid smash attack
+# How to use:
+1. Use an elytra and hold a mace
+2. The player must be 1.5≥ Blocks, or else the the mace wont do the smash attack.
+3. Find your target, (while flying with your elytra) and dive down, and attack them with your mace.
 
 
-Demo video: https://youtu.be/D_2W1BXkHQs
+The result: Your mace will perform a smash attack while you're in flight, but acts like you weren't.
+
+
+### Credits:
+Original Mod: https://modrinth.com/mod/elytramace
+
+Original Demo video: https://youtu.be/D_2W1BXkHQs
