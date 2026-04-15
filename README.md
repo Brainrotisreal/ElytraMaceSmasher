@@ -11,7 +11,7 @@ This fork allows the player to use the mace's smash attack while flying with the
 
 
 ### The result:
-Your mace will perform a smash attack while you're in flight, but acts like you weren't.
+Your mace will perform a smash attack while you're in elytra flight.
 
 
 ### Credits:
