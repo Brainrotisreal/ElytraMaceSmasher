@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "elytramace",
+  "version": "1.0-SNAPSHOT",
+  "name": "ElytraMace",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/elytramace/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "me.autobot.elytramace.client.ElytramaceClient"
+    ],
+    "main": [
+      "me.autobot.elytramace.Elytramace"
+    ]
+  },
+  "mixins": [
+    "elytramace.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.1",
+    "fabric": "*",
+    "minecraft": "1.21.11"
+  }
+}
