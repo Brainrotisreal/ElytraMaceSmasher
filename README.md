@@ -1,5 +1,5 @@
 # ElytraMace
-This fork allows the player to use the mace's smash attack while flying with they elytra.
+This fork allows the player to use the mace's smash attack while flying with their elytra.
 
 ## Disclaimer
 > Before continuing, please understand that this mod **MAY** get you banned from some Minecraft servers, *ESPECIALLY* pvp servers due to unfair advantage (though its very unlikely) But still, ***USE AT YOUR OWN RISK!***
@@ -10,7 +10,8 @@ This fork allows the player to use the mace's smash attack while flying with the
 3. Find your target, (while flying with your elytra) and dive down, and attack them with your mace.
 
 
-The result: Your mace will perform a smash attack while you're in flight, but acts like you weren't.
+### The result:
+Your mace will perform a smash attack while you're in elytra flight.
 
 
 ### Credits:
