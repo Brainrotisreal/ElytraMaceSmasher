@@ -1,4 +1,16 @@
 {
-  "mappings": {},
-  "data": {}
+  "mappings": {
+    "me/autobot/elytramace/mixin/MixinMultiPlayerGameMode_MaceAttack": {
+      "Lnet/minecraft/client/multiplayer/MultiPlayerGameMode;ensureHasSentCarriedItem()V": "Lnet/minecraft/class_636;method_2911()V",
+      "attack": "Lnet/minecraft/class_636;method_2918(Lnet/minecraft/class_1657;Lnet/minecraft/class_1297;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "me/autobot/elytramace/mixin/MixinMultiPlayerGameMode_MaceAttack": {
+        "Lnet/minecraft/client/multiplayer/MultiPlayerGameMode;ensureHasSentCarriedItem()V": "Lnet/minecraft/class_636;method_2911()V",
+        "attack": "Lnet/minecraft/class_636;method_2918(Lnet/minecraft/class_1657;Lnet/minecraft/class_1297;)V"
+      }
+    }
+  }
 }
