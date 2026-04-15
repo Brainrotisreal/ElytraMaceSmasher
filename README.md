@@ -10,4 +10,5 @@ Result -> The mod manages the attack to become a valid smash attack
 
 
 Original Mod: https://modrinth.com/mod/elytramace
-Demo video: https://youtu.be/D_2W1BXkHQs
+
+Original Demo video: https://youtu.be/D_2W1BXkHQs
